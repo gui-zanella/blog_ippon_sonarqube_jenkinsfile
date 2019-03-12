@@ -3,7 +3,9 @@ Code source du tuto Jenkinsfile with Sonarqube !
 
 In **CodeNarc-0.25.2_blog**, run **gradlew install -x test -x signArchives**
 
-From SQ v6.7.6 LTS use **sonar-groovy-master_blog**
+For SQ v6.7.6 LTS use **sonar-groovy-master_blog**
+
+
 For SQ uppers version use **sonar-groovy-7.5_blog**
 
 then run **mvn -U clean package**
