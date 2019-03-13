@@ -12,7 +12,7 @@ then run **mvn -U clean package**
 
 
 
-Copy the new plugin into your SonarQube plugin directory **sonarqube-6.7.6\extensions\plugins** and restart your SonarQube
+Copy the new plugin into your SonarQube plugin directory **\extensions\plugins** and restart your SonarQube
 
 Use the sample file **jenkinsfile** in a project, then analyse :
 
